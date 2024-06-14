@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 const searchform = document.getElementById("search-form");
-const accesskey = "EkcOvqFnFQV_5pq5Y0Pu6CB4NCLUS4dk_XH7N7bDTwM";
+const accesskey = "";
 const searchbox = document.getElementById("search-box");
 const searchresult = document.getElementById("search-result");
 const showmoreimages = document.getElementById("show-more-images");
